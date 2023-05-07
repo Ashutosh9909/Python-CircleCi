@@ -9,3 +9,4 @@ python main.py
 ```
 python tests.py
 ```
+Video link for step by step description :- https://youtu.be/H48NyvRuo64
